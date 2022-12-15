@@ -1,0 +1,104 @@
+
+.Container1{
+    border-top: 20px;
+    display: inline-block;
+    margin-left: 5px;
+    border: 2px dashed black;
+}
+.Container2{
+    border-top: 20px;
+    display: inline-block;
+    margin-left: 5px;
+    border: 2px dashed black;
+}
+.Container3{
+    border-top: 20px;
+    display: inline-block;
+    margin-left: 5px;
+    border: 2px dashed black;
+}
+.One{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    display: inline-block;
+}
+.Two{
+    width: 100px;
+    height: 100px;
+    background-color: green;
+    display: inline-block;  
+}
+
+.Three{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    display: inline-block;
+}
+.Four{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    display: inline-block;
+}
+
+.One2{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    display: inline-block;
+}
+.Two2{
+    width: 100px;
+    height: 100px;
+    background-color: green;
+    display: inline-block;  
+    position: absolute;
+    left: 20%;
+    bottom: 55%
+
+}
+
+.Three2{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    display: inline-block;
+    margin-left: 104px;
+}
+.Four2{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    display: inline-block;
+}
+.One3{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    display: inline-block;
+}
+.Two3{
+    width: 100px;
+    height: 100px;
+    background-color: green;
+    display: inline-block;  
+    position: absolute;
+    right:80%;
+    bottom:23%;
+}
+
+.Three3{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    display: inline-block;
+}
+
+.Four3{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    display: inline-block;
+}
